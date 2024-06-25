@@ -4,10 +4,6 @@
 
 This template was scaffolded from [nextjs-with-typescript-example-template](https://github.com/binodnepali/nextjs-with-typescript-example-template). And this template adds [tailwindcss](https://tailwindcss.com/) so that you can  start a new project using [Nextjs 13](https://nextjs.org/) and [tailwindcss](https://tailwindcss.com/).
 
-## Why this template
-
-This template includes pre-installed plugins suchas [prettier](https://prettier.io/), [eslint](https://eslint.org/), [stylelint](https://stylelint.io/), [lint-staged](https://github.com/okonet/lint-staged), [commitlint](https://commitlint.js.org/) and [standard version](https://github.com/conventional-changelog/standard-version) which helps to maintain project code quality.
-
 ## Before getting started
 
 Make sure you have installed [Node.js 16.8 or higher](https://nodejs.org/en/) on your machine. You can use [nvm](https://github.com/nvm-sh/nvm) to manage multiple node version on your machine.
